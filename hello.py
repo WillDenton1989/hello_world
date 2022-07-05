@@ -1,1 +1,1 @@
-print("practicing commiting to git. god help us. this is try number X")
+print("Practicing commiting my work to git. God help us. This is attempt number 3")
