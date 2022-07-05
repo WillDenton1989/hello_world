@@ -1,1 +1,1 @@
-print("there is no god we will all die sad and alone")
+print("Imagine if i could actually spell or type")
